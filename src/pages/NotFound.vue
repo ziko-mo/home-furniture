@@ -4,7 +4,7 @@
       <h1>Not found bage</h1>
       <p>
         Maybe there are somthing in this bage, Go to
-        <router-link to="/home"> home bage</router-link>
+        <router-link to="/home"> home bage.</router-link>
       </p>
     </div>
   </section>
